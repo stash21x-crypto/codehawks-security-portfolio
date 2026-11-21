@@ -3,7 +3,7 @@
 ![Smart Contract Security](https://img.shields.io/badge/Focus-Smart%20Contract%20Security-blue)
 ![Platform](https://img.shields.io/badge/Platform-CodeHawks-purple)
 ![Education](https://img.shields.io/badge/Learning-Cyfrin%20Updraft-orange)
-![License](https://img.shields.io/badge/License-No%20License-lightgrey)
+![License](https://img.shields.io/badge/License-No%20License-yellow)
 
 A curated portfolio of smart-contract security audit reports completed through **Cyfrin Updraft** and **CodeHawks**.
 
